@@ -1,6 +1,6 @@
 {
     "name": "utils-string",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "",
     "main": "dist/index.js",
     "files": [
@@ -30,6 +30,6 @@
     "dependencies": {
         "date-fns": "^2.29.3",
         "lodash": "^4.17.21",
-        "utils-number": "^0.0.4"
+        "utils-number": "^0.0.5"
     }
 }
